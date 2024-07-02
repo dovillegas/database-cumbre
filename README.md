@@ -14,3 +14,6 @@ SQL Server Management Studio (SSMS) https://learn.microsoft.com/es-es/sql/ssms/d
 TUTORIAL 
 Descargar e Instalar SQL Server y SQL Server Management Studio SSMS: https://www.youtube.com/watch?v=3OvheAXSelM
 
+### 2do Encuentro
+Vertabelo Data Modeler https://vertabelo.com/
+Database modeling tool https://erdplus.com/
