@@ -8,6 +8,8 @@ Espacio para compartir recursos del curso Bases de Datos  en el marco de la inic
 
 # Recursos
 
+## Presentaciones
+Motores de bases de datos realacionales: https://docs.google.com/presentation/d/1TZU76hicgi9PFI-vqLgABQguiSV1GeDq5VLsz-XoNvo/edit?usp=sharing
 ## Motores de bases de datos
 
 MariaDB Server https://mariadb.org/download 
