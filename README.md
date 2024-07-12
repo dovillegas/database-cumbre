@@ -30,3 +30,13 @@ Descargar e Instalar SQL Server y SQL Server Management Studio SSMS: https://www
 Vertabelo Data Modeler https://vertabelo.com/
 
 Database modeling tool https://erdplus.com/
+
+## SQL
+Apuntes de Bases de Datos I (FaCENA-UNNE) - Intro DDL https://github.com/dovillegas/database-cumbre/blob/main/presentaciones/SQL_intro_DDL_DML.pdf
+Apuntes de Bases de Datos I (FaCENA-UNNE) - Intro DML-Select https://github.com/dovillegas/database-cumbre/blob/main/presentaciones/SQL_DML_SELECT.pdf
+
+SQL Basics Cheat Sheet (LearnSQL.com Team) https://learnsql.com/blog/sql-basics-cheat-sheet/
+
+Tipos de datos - MySQL https://dev.mysql.com/doc/refman/8.4/en/data-types.html
+Tipos de datos - SQL Server https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16
+
