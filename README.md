@@ -38,7 +38,13 @@ Apuntes de Bases de Datos I (FaCENA-UNNE) - Intro DML-Select https://github.com/
 
 SQL Basics Cheat Sheet (LearnSQL.com Team) https://learnsql.com/blog/sql-basics-cheat-sheet/
 
-Tipos de datos - MySQL https://dev.mysql.com/doc/refman/8.4/en/data-types.html
+### Tipos de datos 
+MySQL https://dev.mysql.com/doc/refman/8.4/en/data-types.html
 
-Tipos de datos - SQL Server https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16
+SQL Server https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16
 
+### Operadores
+
+MySQL https://dev.mysql.com/doc/refman/8.4/en/non-typed-operators.html
+
+SQL Server https://learn.microsoft.com/en-us/sql/t-sql/language-elements/operators-transact-sql?view=sql-server-ver16
