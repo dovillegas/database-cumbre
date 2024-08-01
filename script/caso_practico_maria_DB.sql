@@ -8,21 +8,9 @@ CREATE TABLE estudiantes (
     correo_electronico VARCHAR(255) NOT NULL UNIQUE,
     estado_verificacion_correo TINYINT(1) NOT NULL DEFAULT 0,
     dni CHAR(8) NOT NULL UNIQUE,
-    CHECK (TIMESTAMPDIFF(YEAR, fecha_nacimiento, CURDATE()) > 12 AND 
-           TIMESTAMPDIFF(YEAR, fecha_nacimiento, CURDATE()) < 100)
 );
 
-CREATE TABLE estudiantes (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    nombre_completo VARCHAR(255) NOT NULL,
-    fecha_nacimiento DATE NOT NULL,
-    perfil_tecnico VARCHAR(100) NOT NULL,
-    correo_electronico VARCHAR(255) NOT NULL UNIQUE,
-    estado_verificacion_correo TINYINT(1) NOT NULL DEFAULT 0,
-    dni CHAR(8) NOT NULL UNIQUE,
-    CHECK (TIMESTAMPDIFF(YEAR, fecha_nacimiento, CURDATE()) > 12 AND 
-           TIMESTAMPDIFF(YEAR, fecha_nacimiento, CURDATE()) < 100)
-);
+
 CREATE TABLE cursos (
     id INT AUTO_INCREMENT PRIMARY KEY,
     codigo VARCHAR(50) NOT NULL,
@@ -36,10 +24,6 @@ CREATE TABLE intereses (
     tema VARCHAR(100) NOT NULL
 );
 
-CREATE TABLE intereses (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    tema VARCHAR(100) NOT NULL
-);
 CREATE TABLE inscripciones (
     id_estudiante INT,
     id_curso INT,
