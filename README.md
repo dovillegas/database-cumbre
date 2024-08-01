@@ -38,6 +38,11 @@ Database modeling tool https://erdplus.com/
 
 Online SQL compiler https://sqlfiddle.com/
 
+
+## Herramientas para limpieza de datos
+
+OpenRefine (open source)  https://openrefine.org/
+
 ## SQL
 Apuntes de Bases de Datos I (FaCENA-UNNE) - Intro DDL https://github.com/dovillegas/database-cumbre/blob/main/presentaciones/SQL_intro_DDL_DML.pdf
 
