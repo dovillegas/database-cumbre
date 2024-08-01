@@ -10,6 +10,9 @@ Espacio para compartir recursos del curso Bases de Datos  en el marco de la inic
 
 ## Presentaciones
 Motores de bases de datos realacionales: https://docs.google.com/presentation/d/1TZU76hicgi9PFI-vqLgABQguiSV1GeDq5VLsz-XoNvo/edit?usp=sharing
+
+Introducción al diseño de bases de datos relacionales https://github.com/dovillegas/database-cumbre/blob/main/presentaciones/disegno_bases_datos_cumbre_datos_2024.pdf
+
 ## Motores de bases de datos
 
 MariaDB Server https://mariadb.org/download 
